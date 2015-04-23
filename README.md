@@ -7,7 +7,13 @@ https://github.com/qinwf/jiebaR
 You need Microsoft Azure Machinese Learning Studio account to play with it:
 https://studio.azureml.net/
 
+OData Endpoint Address
+https://ussouthcentral.services.azureml.net/odata/workspaces/ed92dffcd0724f1991aa01acc940fc67/services/d9fc21a410cf4dc6a5521114e85a0346
 
+
+HTTP POST
+https://ussouthcentral.services.azureml.net/workspaces/ed92dffcd0724f1991aa01acc940fc67/services/d9fc21a410cf4dc6a5521114e85a0346/execute?api-version=2.0&details=true
+ 
 Here's my sample C# client code with my app key:
 M1N3c9NUSRHqEspoM6x6Io3je05sc/+xUuXSMXN4PbNnVyO/KhNaZOP41yOsDaBt+b/k9x2jdtoDXK6yDo+W7w==
 
